@@ -1,5 +1,5 @@
 # 💫 About Me:
-Muhammad Anas is a developer passionate about building practical and lightweight applications. On GitHub, he shares projects that showcase his skills in web and software development — including a PHP contact application and other open-source code contributions. Through his repositories, Anas demonstrates hands-on experience in creating useful tools and learning new technologies as he grows his coding journey.
+A developer passionate about building practical and lightweight applications. On GitHub, he shares projects that showcase his skills in web and software development — including a PHP contact application and other open-source code contributions. Through his repositories, Anas demonstrates hands-on experience in creating useful tools and learning new technologies as he grows his coding journey.
 
 
 ## 🌐 Socials:
